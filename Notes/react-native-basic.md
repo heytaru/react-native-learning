@@ -10,13 +10,13 @@ Cross platform means we have to write the code once and we can deploy it to mult
 > That means react native is a react framework through which we can build cross platforms mobile applications which can run on both **ios** and **Android**.  
 > [React Native Official Docs](https://reactnative.dev/)
 
-## How to create a project in React native
+## How to create a project in React native expo
 
-To create a project in react native first we need to install Node JS install in your applications with npx install.  
-After that we can run the expo-create commands to create a project\
+To create a project in react native expo, first we need to install **Node JS with the npx**.  
+After that we can run the _**expo-create**_ commands to create a project.
 
 ```
 npx create-expo-app@latest appname
 ```
 
-where the appname will be replaced by the app name
+where the appname will be replaced by the actual app name
