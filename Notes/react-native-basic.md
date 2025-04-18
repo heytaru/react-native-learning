@@ -19,4 +19,4 @@ After that we can run the _**expo-create**_ commands to create a project.
 npx create-expo-app@latest appname
 ```
 
-where the appname will be replaced by the actual app name
+where the appname will be replaced by the actual app name. Then select the template which we want or we can go with the blank template and let the commands do it's job.
