@@ -24,3 +24,19 @@ where the appname will be replaced by the actual app name. Then select the templ
 ![running the commands in the vs code terminal](./Images/npx-create_command.png)
 
 > Refers this link [Expo: Creating an project](https://docs.expo.dev/get-started/create-a-project/)
+
+## How to run the project
+
+To run the project there are two methods either by setting up the emulator or by installing the **Expo Go** o the mobile phone.
+First run the below command
+
+```
+npx expo start
+```
+
+Then open the expo go app and scan the QR code which will be displayed in the terminal after running the command.
+
+![running the expo start commands](./Images/npx_start_command.png)
+
+> if got the error like below then run the `yarn add expo` command to install expo
+> ![error while running the start command](./Images/npx_start_error.png)
