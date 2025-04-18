@@ -21,4 +21,6 @@ npx create-expo-app@latest appname
 
 where the appname will be replaced by the actual app name. Then select the template which we want or we can go with the blank template and let the commands do it's job.
 
+![running the commands in the vs code terminal](./Images/npx-create_command.png)
+
 > Refers this link [Expo: Creating an project](https://docs.expo.dev/get-started/create-a-project/)
